@@ -1,0 +1,232 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Cookie&family=Fredoka:wght@300&family=Hubballi&family=IBM+Plex+Sans+Devanagari&family=M+PLUS+Rounded+1c:wght@100&family=Mulish:wght@200&family=Nanum+Gothic&family=Oxygen:wght@300&family=Playball&family=Playfair+Display&family=Prata&family=Raleway:wght@100&family=Roboto+Slab:wght@100&family=Sansita+Swashed:wght@300&display=swap');
+#div2{
+    background-color: #5e068a;
+    height: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 95px;
+}
+label{
+    color: white;
+    font-size: 14px;
+}
+#a2{
+    color: white;
+    font-family: 'Mulish', sans-serif;
+    font-size: 10px;
+    font-weight: lighter;
+}
+#row{
+    margin-top: 80px;
+    margin-left: 80px;
+}
+#a1{
+    color: #2d3e50;
+    font-family: 'Mulish', sans-serif;
+    font-size: 14px;
+}
+#a1:hover{
+    color: #5e068a;
+}
+h3{
+    color: #5e068a;
+    font-size: 32px;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+}
+h2{
+    color: #5e068a;
+    font-size: 32px;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+}
+h5{
+    color: #5e068a99;
+    font-size: 20px;
+    font-family: 'Mulish', sans-serif;
+
+}
+#navbarSupportedContent{
+    margin-right: -35px;
+}
+#bt2{
+    background-color: #5e068a;
+    border-radius: 25px;
+    color: white;
+    width: 130px;
+    height: 50px;
+    border: 2px solid #5e068a;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+
+}
+#bt2:hover{
+    background-color: white;
+    color: #5e068a;
+}
+#img1{
+    margin-left: -25px;
+}
+#p2{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 15px;
+}
+#fix{
+    position:sticky;
+    top: 0px;
+    z-index: 100;
+}
+#div5
+{
+    text-align: justify;
+
+    margin-bottom: 50px;
+    margin-left: -110px;
+}
+#div4
+{
+    text-align: justify;
+
+    margin-bottom: 100px;
+    margin-left: -110px;
+}
+#h1{
+    font-size: 52px;
+}
+#p1{
+    font-size: 14px;
+}
+#bt1{
+    background-color: #5e068a;
+    border-radius: 25px;
+    color: white;
+    width: 140px;
+    height: 50px;
+    border: 2px solid #5e068a;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+    margin-top: 30px;
+}
+#bt1:hover{
+    background-color: #5e068a99;
+    border: 2px solid #5e068a99;
+
+}
+#car1{
+    margin-top: 210px;
+    margin-left: -50px;
+    background-color: transparent;
+}
+#car2{
+    margin-top: 210px;
+    background-color: transparent;
+}
+#s1{
+    width: 20px;
+    background-color: transparent;
+}
+#div6{
+    background-color:rgb(243, 242, 242);
+    padding-bottom: 30px;
+    
+}
+
+/* #div8:hover{
+    box-shadow: 0 0 3px #515151;
+
+} */
+#div7{
+    background-color: white;
+    padding: 40px;
+    margin: 0px;
+    width: 560px;
+}
+#hh{
+    font-size: 23px;
+}
+#pp{
+    font-size: 15px;
+    font-family: 'Oxygen', sans-serif;
+    font-style: bold;
+    margin-top: 10px;
+}
+#aa{
+    color: #5e068a;
+
+}
+#div9{
+
+    background-color:rgb(243, 242, 242);
+    padding-bottom: 30px;
+    
+}
+#ch{
+    color:  #5e068a;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+    font-size: 18px;
+    margin-top:10px;
+
+}
+#cbt{
+    background-color: #5e068a;
+    color: white;
+    border: 1pt solid #5e068a;
+    border-radius: 0px;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+}
+#card1
+{
+    padding-bottom: 70px;
+    height: 500px;
+    width: 100%;   
+    border: 0px; 
+}
+#card1:hover{
+    
+        box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.5);
+      
+      
+}
+#div11{
+    background-color: white;
+}
+#div11:hover{
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.5);
+
+}
+.card-text{
+    font-size: 14px;
+}
+#cv{
+    margin-top: 30px;
+    border: 2px solid #5e068a;
+    background-color: white;
+    color: #5e068a;
+    width: 150px;
+    height: 50px;
+    font-size: small;
+    border-radius: 25px;
+}
+#cv:hover
+{
+    background-color: #5e068a;
+    color: white;
+}
+select{
+    padding-right: 150px;
+}
+.modal-footer {  
+    justify-content: space-between;  
+   }
+   #cbt1{
+    background-color: #5e068a;
+    color: white;
+    border: 1pt solid #5e068a;
+    border-radius: 0px;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+    font-size: 15px;
+    margin-top: -20px;
+    width: 140px;
+}
+.modal-footer{
+    top: 10%;
+}

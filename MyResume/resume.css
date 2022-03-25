@@ -1,0 +1,163 @@
+
+/* blue #15596c
+grey #e3e2e7
+dark grey #46444f light blue #86a4ae 
+#404349 gey dark
+light #e3e2e7*/
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Cookie&family=Fredoka:wght@300&family=Hubballi&family=IBM+Plex+Sans+Devanagari&family=M+PLUS+Rounded+1c:wght@100&family=Mulish:wght@200&family=Nanum+Gothic&family=Oxygen:wght@300&family=PT+Serif&family=Playball&family=Playfair+Display&family=Prata&family=Raleway:wght@100&family=Roboto+Slab:wght@100&family=Sansita+Swashed:wght@300&family=Source+Serif+Pro:wght@300&display=swap');
+body{
+    background-color:#fafafa;
+    margin: 0%;
+}
+#mdiv_one
+{
+    position: relative;
+    margin-right: 40px;
+}
+#div_one{
+    height: 980px;
+    width: 25%;
+    background-color:#15596c;
+    position: absolute;
+}
+#div_two{
+    width: 75%;
+    height: 800px;
+    position: absolute;
+    left: 28%;
+}
+#div_three
+{
+    width: 100%;
+    height: 130px;
+    background-image: linear-gradient(to right,#d9d8de,#f5f5f5);
+    position: absolute;
+    margin-top: 30px;
+}
+
+#img_one{
+    width: 120px;
+    height: 120px;
+    border: 9px solid #15596c;
+    border-radius: 100px;
+    background-color: transparent;
+    margin-left: 40px;
+    background-repeat: no-repeat;
+    margin-top: -5px;
+}
+#div_four{
+    width: 80%;
+    height: 130px;
+    margin-bottom: 20px;
+    margin-top: 55%;
+    margin-left: 12%;
+    
+}
+#div_five{
+    height: 130px;
+    margin-bottom: 20px;
+    margin-top:19%;
+    margin-right: 40px;
+}
+#div_six{
+    position: relative;
+}
+#div_seven{
+    position: absolute;
+    width: 10%;
+    height: 250px;
+    
+}
+#div_eight{
+    width: 80%;
+    position: absolute;
+    left: 12%;
+    top: 0;
+}
+#div_nine{
+    margin-top: 270px;
+}
+#h1_one{
+    margin-top: -110px;
+    margin-left: 28%;
+    /* font-family: 'PT Serif', serif; */
+    font-family: 'Source Serif Pro', serif;
+}
+#h4_one{
+    margin-top: -10px;
+    margin-left: 28%;
+    font-family: 'Source Serif Pro', serif;
+}
+#h4_two{
+    font-family: 'Source Serif Pro', serif;
+    color: #15596c;
+    margin: 0%;
+}
+#h5_one{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 6px;
+    margin-bottom: 0%;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 14px;
+}
+#h5_two{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 6px;
+    margin-bottom: 0%;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 14px;
+}
+#label_two{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    
+}
+#label_three{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-family: 'PT Serif', serif;
+
+    font-size: 14px;
+    color: black;
+}
+
+#btn_one{
+    border: 1px solid #e3e2e7;
+    width: 100%;
+    height: 45px;
+    background-color:transparent;
+    color: #f7f7f7;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 15px;
+}
+#i_one{
+    color:#f7f7f7;
+    margin-top: 10px;
+}
+#label_one{
+    font-family: 'Source Serif Pro', serif;
+    color: #f7f7f7;
+    font-size: 14px;
+}
+#progress_one{
+    display: flex;
+    background-color: white;
+}
+#pb_one{
+    background-color: #86a4ae;
+}
+
+#li_one{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 14px;
+    font-family: 'PT Serif', serif;
+
+}
+#para_one{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-family: 'PT Serif', serif;
+
+    font-size: 14px;
+}
+
